@@ -1,0 +1,14 @@
+G:\DemoAPIClient\DemoAPIClient\bin\Debug\DemoAPIClient.exe.config
+G:\DemoAPIClient\DemoAPIClient\obj\Debug\DemoAPIClient.Form1.resources
+G:\DemoAPIClient\DemoAPIClient\obj\Debug\DemoAPIClient.Properties.Resources.resources
+G:\DemoAPIClient\DemoAPIClient\obj\Debug\DemoAPIClient.csproj.GenerateResource.Cache
+G:\DemoAPIClient\DemoAPIClient\bin\Debug\DemoAPIClient.exe
+G:\DemoAPIClient\DemoAPIClient\bin\Debug\DemoAPIClient.pdb
+G:\DemoAPIClient\DemoAPIClient\bin\Debug\Newtonsoft.Json.dll
+G:\DemoAPIClient\DemoAPIClient\bin\Debug\System.Net.Http.Formatting.dll
+G:\DemoAPIClient\DemoAPIClient\bin\Debug\Newtonsoft.Json.xml
+G:\DemoAPIClient\DemoAPIClient\bin\Debug\System.Net.Http.Formatting.xml
+G:\DemoAPIClient\DemoAPIClient\obj\Debug\DemoAPIClient.exe
+G:\DemoAPIClient\DemoAPIClient\obj\Debug\DemoAPIClient.pdb
+G:\DemoAPIClient\DemoAPIClient\obj\Debug\DemoAPIClient.csprojAssemblyReference.cache
+G:\DemoAPIClient\DemoAPIClient\obj\Debug\DemoAPIClient.csproj.CopyComplete
